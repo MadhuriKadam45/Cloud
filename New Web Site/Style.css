@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Custom;
+    src: url(Evelins.otf);
+}
+
+* {
+    margin:0;
+    padding:0;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    background-image: url(Imgaes/Nature\ Theam.jpg);
+    background-size: cover;
+    font-family: custom;
+}
